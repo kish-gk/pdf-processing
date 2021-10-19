@@ -2,7 +2,7 @@
 
 ### List of scripts:
 
-**1.** PDF Proccesing (Rotating, Reading, Wiriting): [**`Code`**](https://github.com/gkrockz/pdf-processing/blob/main/pdf_processing.py)
+**1.** PDF Proccesing (rotating, wiriting, encrypting): [**`Code`**](https://github.com/gkrockz/pdf-processing/blob/main/pdf_processing.py)
 
 **2.** PDF Watermark Adder: [**`Code`**](https://github.com/gkrockz/pdf-processing/blob/main/watermarker.py)
 
